@@ -9,3 +9,6 @@ if __name__ == "__main__":
     main()
 
 ## Ovo je moj komentar - DinaGladan
+
+def nova_metoda():
+    return "Ovo je nova metoda 2."
